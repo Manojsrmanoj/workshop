@@ -6,8 +6,8 @@ function App() {
       <header className="App-header">
         <h1>Peer-Mentor Learning Series Workshop 1</h1>
         <div className="user-info">
-          <p><strong>Name:</strong> Your Name</p> 
-          <p><strong>USN:</strong> Your USN</p>
+          <p><strong>Name:</strong> manoj sr</p> 
+          <p><strong>USN:</strong> 1rvu23cse7011</p>
         </div>
       </header>
     </div>
